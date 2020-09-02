@@ -1,6 +1,8 @@
 # Cardiovascular
  
-Estudo de atributos para prediação de doenças cardiovasculares.
+
+Arquivo: heart_parametros4 -- Estudo de atributos para prediação de doenças cardiovasculares.
+Dataset: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
 Features:
 
@@ -27,3 +29,5 @@ Alcohol intake | Subjective Feature | alco | binary |
 Physical activity | Subjective Feature | active | binary | Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
 All of the dataset values were collected at the moment of medical examination.
+
+________________________________________________________________________________________________________________________________________________________________
